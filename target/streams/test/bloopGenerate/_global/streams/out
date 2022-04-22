@@ -1,0 +1,4 @@
+[debug] [models-tools-test] Classpath dependencies List()
+[debug] [models-tools-test] Dependencies from configurations List(models-tools)
+[debug] Bloop wrote the configuration of project 'models-tools-test' to '/home/yelun/University/year2/models-tools/models-tools/.bloop/models-tools-test.json'
+[success] Generated .bloop/models-tools-test.json
