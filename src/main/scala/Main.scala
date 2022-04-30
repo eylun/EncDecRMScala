@@ -177,17 +177,10 @@ object decoder {
 }
 
 object input {
-    val encodeInput: Option[RMPart] = Some(
-      //   ProgDec(1, 2, 1)
-      //   ProgHalt()
-      //   ProgDec(1, 3, 4)
-      //   ProgDec(1, 5, 4),
-      //   ProgHalt(),
-      ProgInc(0, 0)
-    )
+    val encodeInput: Option[RMPart] = Some(RMList(List(2, 1)))
     val decodeInput: Option[scala.math.BigInt] = None
     val decodeType =
-        DecodeTypes.Program // SmallPair, LargePair, List, Program or Instruction
+        DecodeTypes.Instruction // SmallPair, LargePair, List, Program or Instruction
 }
 object Main extends App {
     (input.decodeInput, input.encodeInput) match {
