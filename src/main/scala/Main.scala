@@ -10,18 +10,21 @@ object InputTypes extends Enumeration {
 }
 
 object input {
-    val inputType = InputTypes.Run
-    val encodeInput: RMPart = RMList(List(2, 1))
-    val decodeInput: scala.math.BigInt = 0
+    val inputType = InputTypes.Decode
+    val encodeInput: RMPart = ProgDec(0, 3, 4)
+    val decodeInput: scala.math.BigInt = 1144
     val decodeType =
         DecodeTypes.Instruction // SmallPair, LargePair, List, Program or Instruction
 
     val runInputProgram = RMProg(
       List(
-        ProgDec(1, 1, 2),
-        ProgInc(0, 0),
-        ProgDec(2, 3, 4),
-        ProgInc(0, 2),
+        ProgDec(0, 1, 4),
+        ProgInc(1, 2),
+        ProgDec(0, 3, 4),
+        ProgInc(2, 0),
+        ProgDec(1, 4, 5),
+        ProgDec(2, 6, 7),
+        ProgInc(0, 5),
         ProgHalt()
       )
     )
@@ -29,7 +32,7 @@ object input {
      * is equivalent to: R0 = 0, R1 = 99
      * There are no scratch registers, use a large number instead like R99 = 0
      */
-    val runInputParams = HashMap(0 -> 0, 1 -> 1, 2 -> 2)
+    val runInputParams = HashMap(0 -> 8, 1 -> 0, 2 -> 0)
 }
 object Main extends App {
     input.inputType match {
