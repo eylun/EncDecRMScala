@@ -35,7 +35,8 @@ object Encoder {
     }
 
     def encodeList(elements: List[scala.math.BigInt]): scala.math.BigInt = {
-        println("Encoding List of Numbers...")
+        println(s"Encoding List of Numbers: ${elements} OR 0b${elements
+            .map(n => { s"$n zeroes" })}")
         println(RMList(elements).toString())
         val result = elements.foldRight(scala.math.BigInt(0))(encodeSmall)
         println(s"= $result")

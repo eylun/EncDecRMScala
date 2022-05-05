@@ -12966,3 +12966,294 @@ WARNING: Unmatched cancel notification for request id 862
 2022.05.01 16:54:29 INFO  Closing debug server tcp://0.0.0.0:40813
 May 01, 2022 4:55:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2022.05.01 17:09:15 INFO  compiling models-tools (1 scala source)
+2022.05.01 17:09:15 INFO  time: compiled models-tools in 0.67s
+2022.05.01 17:09:18 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:09:18 INFO  compiling models-tools (1 scala source)
+2022.05.01 17:09:18 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:09:18 INFO  time: compiled models-tools in 0.66s
+2022.05.01 17:09:20 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-server.trace.json or /home/yelun/.cache/metals/dap-server.trace.json
+2022.05.01 17:09:20 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-client.trace.json or /home/yelun/.cache/metals/dap-client.trace.json
+2022.05.01 17:09:20 INFO  Starting debug proxy for [Main]
+2022.05.01 17:09:21 INFO  Trying to attach to remote debuggee VM localhost:39555 .
+2022.05.01 17:09:21 INFO  Attaching to debuggee VM succeeded.
+2022.05.01 17:09:20 INFO  Canceling debug proxy for [Main]
+2022.05.01 17:09:21 INFO  Closing debug server tcp://0.0.0.0:37525
+2022.05.01 17:26:51 INFO  compiling models-tools (1 scala source)
+2022.05.01 17:26:51 INFO  Deduplicating compilation of models-tools from bsp client 'Metals 0.11.5' (since 1h 2m 56.253s)
+2022.05.01 17:26:51 INFO  compiling models-tools (1 scala source)
+2022.05.01 17:26:51 INFO  time: compiled models-tools in 0.55s
+2022.05.01 17:26:51 INFO  Deduplicating compilation of models-tools from bsp client 'Metals 0.11.5' (since 1h 2m 56.815s)
+2022.05.01 17:26:51 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-server.trace.json or /home/yelun/.cache/metals/dap-server.trace.json
+2022.05.01 17:26:51 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-client.trace.json or /home/yelun/.cache/metals/dap-client.trace.json
+2022.05.01 17:26:51 INFO  Starting debug proxy for [Main]
+2022.05.01 17:26:52 INFO  Trying to attach to remote debuggee VM localhost:35297 .
+2022.05.01 17:26:52 INFO  Attaching to debuggee VM succeeded.
+2022.05.01 17:26:53 INFO  Canceling debug proxy for [Main]
+2022.05.01 17:26:52 INFO  Closing debug server tcp://0.0.0.0:39205
+2022.05.01 17:27:12 INFO  compiling models-tools (1 scala source)
+2022.05.01 17:27:12 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:27:12 INFO  time: compiled models-tools in 0.64s
+2022.05.01 17:27:12 INFO  Deduplicating compilation of models-tools from bsp client 'Metals 0.11.5' (since 1h 3m 18.123s)
+2022.05.01 17:27:12 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-server.trace.json or /home/yelun/.cache/metals/dap-server.trace.json
+2022.05.01 17:27:12 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-client.trace.json or /home/yelun/.cache/metals/dap-client.trace.json
+2022.05.01 17:27:13 INFO  Starting debug proxy for [Main]
+2022.05.01 17:27:13 INFO  Trying to attach to remote debuggee VM localhost:50929 .
+2022.05.01 17:27:13 INFO  Attaching to debuggee VM succeeded.
+2022.05.01 17:27:14 INFO  Canceling debug proxy for [Main]
+2022.05.01 17:27:13 INFO  Closing debug server tcp://0.0.0.0:37661
+2022.05.01 17:27:28 INFO  compiling models-tools (1 scala source)
+2022.05.01 17:27:28 INFO  time: compiled models-tools in 0.69s
+2022.05.01 17:27:29 INFO  Deduplicating compilation of models-tools from bsp client 'Metals 0.11.5' (since 1h 3m 34.769s)
+2022.05.01 17:27:29 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-server.trace.json or /home/yelun/.cache/metals/dap-server.trace.json
+2022.05.01 17:27:29 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-client.trace.json or /home/yelun/.cache/metals/dap-client.trace.json
+2022.05.01 17:27:29 INFO  Starting debug proxy for [Main]
+2022.05.01 17:27:29 INFO  Trying to attach to remote debuggee VM localhost:58849 .
+2022.05.01 17:27:29 INFO  Attaching to debuggee VM succeeded.
+2022.05.01 17:27:29 INFO  Canceling debug proxy for [Main]
+2022.05.01 17:27:29 INFO  Closing debug server tcp://0.0.0.0:39977
+2022.05.01 17:28:23 INFO  compiling models-tools (1 scala source)
+2022.05.01 17:28:23 INFO  time: compiled models-tools in 0.71s
+2022.05.01 17:28:25 INFO  Deduplicating compilation of models-tools from bsp client 'Metals 0.11.5' (since 1h 4m 30.764s)
+2022.05.01 17:28:25 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-server.trace.json or /home/yelun/.cache/metals/dap-server.trace.json
+2022.05.01 17:28:25 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-client.trace.json or /home/yelun/.cache/metals/dap-client.trace.json
+2022.05.01 17:28:25 INFO  Starting debug proxy for [Main]
+2022.05.01 17:28:25 INFO  Trying to attach to remote debuggee VM localhost:46809 .
+2022.05.01 17:28:25 INFO  Attaching to debuggee VM succeeded.
+2022.05.01 17:28:26 INFO  Canceling debug proxy for [Main]
+2022.05.01 17:28:25 INFO  Closing debug server tcp://0.0.0.0:36069
+2022.05.01 17:28:38 INFO  compiling models-tools (1 scala source)
+2022.05.01 17:28:38 INFO  time: compiled models-tools in 0.66s
+2022.05.01 17:28:40 INFO  Deduplicating compilation of models-tools from bsp client 'Metals 0.11.5' (since 1h 4m 45.074s)
+2022.05.01 17:28:40 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-server.trace.json or /home/yelun/.cache/metals/dap-server.trace.json
+2022.05.01 17:28:40 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-client.trace.json or /home/yelun/.cache/metals/dap-client.trace.json
+2022.05.01 17:28:40 INFO  Starting debug proxy for [Main]
+2022.05.01 17:28:40 INFO  Trying to attach to remote debuggee VM localhost:36237 .
+2022.05.01 17:28:40 INFO  Attaching to debuggee VM succeeded.
+2022.05.01 17:28:41 INFO  Canceling debug proxy for [Main]
+2022.05.01 17:28:40 INFO  Closing debug server tcp://0.0.0.0:33329
+2022.05.01 17:28:49 INFO  compiling models-tools (1 scala source)
+2022.05.01 17:28:49 INFO  time: compiled models-tools in 0.63s
+2022.05.01 17:28:51 INFO  Deduplicating compilation of models-tools from bsp client 'Metals 0.11.5' (since 1h 4m 56.825s)
+2022.05.01 17:28:51 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-server.trace.json or /home/yelun/.cache/metals/dap-server.trace.json
+2022.05.01 17:28:51 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-client.trace.json or /home/yelun/.cache/metals/dap-client.trace.json
+2022.05.01 17:28:51 INFO  Starting debug proxy for [Main]
+2022.05.01 17:28:51 INFO  Trying to attach to remote debuggee VM localhost:56559 .
+2022.05.01 17:28:51 INFO  Attaching to debuggee VM succeeded.
+2022.05.01 17:28:51 INFO  Canceling debug proxy for [Main]
+2022.05.01 17:28:51 INFO  Closing debug server tcp://0.0.0.0:39261
+2022.05.01 17:54:15 INFO  compiling models-tools (1 scala source)
+2022.05.01 17:54:15 INFO  time: compiled models-tools in 0.88s
+2022.05.01 17:54:18 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:54:18 INFO  compiling models-tools (1 scala source)
+2022.05.01 17:54:18 INFO  time: compiled models-tools in 0.13s
+2022.05.01 17:54:18 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:54:19 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:54:19 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:54:19 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:54:19 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:54:19 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:54:21 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:54:21 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:54:22 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:54:22 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:54:22 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:54:22 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:54:22 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:54:22 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:54:23 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:54:23 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:54:22 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:54:23 INFO  compiling models-tools (1 scala source)
+2022.05.01 17:54:23 INFO  time: compiled models-tools in 93ms
+2022.05.01 17:54:23 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:54:24 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:54:24 INFO  compiling models-tools (1 scala source)
+2022.05.01 17:54:24 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.01 17:54:24 INFO  time: compiled models-tools in 0.69s
+2022.05.01 17:54:28 INFO  Deduplicating compilation of models-tools from bsp client 'Metals 0.11.5' (since 1h 30m 33.499s)
+2022.05.01 17:54:28 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-server.trace.json or /home/yelun/.cache/metals/dap-server.trace.json
+2022.05.01 17:54:28 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-client.trace.json or /home/yelun/.cache/metals/dap-client.trace.json
+2022.05.01 17:54:28 INFO  Starting debug proxy for [Main]
+2022.05.01 17:54:28 INFO  Trying to attach to remote debuggee VM localhost:40087 .
+2022.05.01 17:54:28 INFO  Attaching to debuggee VM succeeded.
+2022.05.01 17:54:29 INFO  Canceling debug proxy for [Main]
+2022.05.01 17:54:28 INFO  Closing debug server tcp://0.0.0.0:43589
+2022.05.01 19:48:23 INFO  compiling models-tools (1 scala source)
+2022.05.01 19:48:23 INFO  time: compiled models-tools in 0.63s
+2022.05.01 19:48:33 INFO  compiling models-tools (1 scala source)
+2022.05.01 19:48:33 INFO  time: compiled models-tools in 0.64s
+2022.05.01 19:48:35 INFO  Deduplicating compilation of models-tools from bsp client 'Metals 0.11.5' (since 3h 24m 40.932s)
+2022.05.01 19:48:35 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-server.trace.json or /home/yelun/.cache/metals/dap-server.trace.json
+2022.05.01 19:48:35 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-client.trace.json or /home/yelun/.cache/metals/dap-client.trace.json
+2022.05.01 19:48:36 INFO  Starting debug proxy for [Main]
+2022.05.01 19:48:35 INFO  Trying to attach to remote debuggee VM localhost:60307 .
+2022.05.01 19:48:35 INFO  Attaching to debuggee VM succeeded.
+2022.05.01 19:48:36 INFO  Canceling debug proxy for [Main]
+2022.05.01 19:48:35 INFO  Closing debug server tcp://0.0.0.0:42093
+2022.05.01 19:51:07 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Encoder.scala
+2022.05.01 19:51:07 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Encoder.scala
+2022.05.01 21:39:17 INFO  compiling models-tools (1 scala source)
+2022.05.01 21:39:18 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Encoder.scala
+2022.05.01 21:39:17 INFO  time: compiled models-tools in 0.65s
+java.util.concurrent.RejectedExecutionException: Task Future(<not completed>) rejected from java.util.concurrent.ThreadPoolExecutor@5e8cdf6c[Shutting down, pool size = 3, active threads = 2, queued tasks = 0, completed tasks = 26102]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2055)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:825)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1355)
+	at scala.concurrent.impl.ExecutionContextImpl.execute(ExecutionContextImpl.scala:21)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:429)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:504)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+java.util.concurrent.RejectedExecutionException: Task Future(<not completed>) rejected from java.util.concurrent.ThreadPoolExecutor@5e8cdf6c[Shutting down, pool size = 2, active threads = 2, queued tasks = 0, completed tasks = 26102]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2055)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:825)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1355)
+	at scala.concurrent.impl.ExecutionContextImpl.execute(ExecutionContextImpl.scala:21)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:429)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:504)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022.05.02 13:00:54 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/lsp.trace.json or /home/yelun/.cache/metals/lsp.trace.json
+2022.05.02 13:00:55 INFO  logging to file /home/yelun/University/year2/models-tools/models-tools/.metals/metals.log
+2022.05.02 13:00:55 INFO  Started: Metals version 0.11.5 in workspace '/home/yelun/University/year2/models-tools/models-tools' for client Visual Studio Code 1.66.2.
+2022.05.02 13:00:56 INFO  time: initialize in 1.65s
+2022.05.02 13:00:56 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.02 13:00:57 INFO  Attempting to connect to the build server...
+2022.05.02 13:00:56 INFO  skipping build import with status 'Installed'
+2022.05.02 13:01:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/bsp.trace.json or /home/yelun/.cache/metals/bsp.trace.json
+2022.05.02 13:01:00 INFO  Attempting to connect to the build server...
+2022.05.02 13:01:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/project/.metals/bsp.trace.json or /home/yelun/.cache/metals/bsp.trace.json
+2022.05.02 13:01:00 INFO  time: Connected to build server in 3.46s
+2022.05.02 13:01:00 INFO  Connected to Build server: Bloop v1.5.0
+2022.05.02 13:01:02 INFO  no build target found for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Encoder.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.02 13:01:02 INFO  time: code lens generation in 3.73s
+2022.05.02 13:01:04 INFO  no build target found for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Encoder.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.02 13:01:05 INFO  time: code lens generation in 2.99s
+2022.05.02 13:01:07 INFO  time: indexed workspace in 4.37s
+java.util.concurrent.RejectedExecutionException: Task Future(<not completed>) rejected from java.util.concurrent.ThreadPoolExecutor@6339553[Shutting down, pool size = 4, active threads = 4, queued tasks = 0, completed tasks = 563]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2055)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:825)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1355)
+	at scala.concurrent.impl.ExecutionContextImpl.execute(ExecutionContextImpl.scala:21)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:429)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:504)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+java.util.concurrent.RejectedExecutionException: Task Future(<not completed>) rejected from java.util.concurrent.ThreadPoolExecutor@6339553[Shutting down, pool size = 4, active threads = 4, queued tasks = 0, completed tasks = 563]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2055)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:825)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1355)
+	at scala.concurrent.impl.ExecutionContextImpl.execute(ExecutionContextImpl.scala:21)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:429)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:504)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022.05.04 11:43:56 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/lsp.trace.json or /home/yelun/.cache/metals/lsp.trace.json
+2022.05.04 11:43:57 INFO  logging to file /home/yelun/University/year2/models-tools/models-tools/.metals/metals.log
+2022.05.04 11:43:57 INFO  Started: Metals version 0.11.5 in workspace '/home/yelun/University/year2/models-tools/models-tools' for client Visual Studio Code 1.66.2.
+2022.05.04 11:43:59 INFO  time: initialize in 2.25s
+2022.05.04 11:43:59 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.04 11:44:00 INFO  Attempting to connect to the build server...
+2022.05.04 11:44:00 INFO  skipping build import with status 'Installed'
+2022.05.04 11:44:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/bsp.trace.json or /home/yelun/.cache/metals/bsp.trace.json
+2022.05.04 11:44:05 INFO  Attempting to connect to the build server...
+2022.05.04 11:44:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/project/.metals/bsp.trace.json or /home/yelun/.cache/metals/bsp.trace.json
+2022.05.04 11:44:05 INFO  time: Connected to build server in 5.37s
+2022.05.04 11:44:05 INFO  Connected to Build server: Bloop v1.5.0
+2022.05.04 11:44:08 INFO  no build target found for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.04 11:44:08 INFO  time: code lens generation in 3.97s
+2022.05.04 11:44:08 INFO  time: Imported build in 0.1s
+2022.05.04 11:44:10 INFO  time: indexed workspace in 1.92s
+May 04, 2022 6:36:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 69
+May 04, 2022 6:36:22 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 333, count -1, length 4900
+2022.05.04 18:36:48 INFO  compiling models-tools (1 scala source)
+2022.05.04 18:36:50 INFO  time: compiled models-tools in 2.55s
+2022.05.04 18:36:51 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-server.trace.json or /home/yelun/.cache/metals/dap-server.trace.json
+2022.05.04 18:36:51 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-client.trace.json or /home/yelun/.cache/metals/dap-client.trace.json
+2022.05.04 18:36:51 INFO  Starting debug proxy for [Main]
+2022.05.04 18:36:53 INFO  Trying to attach to remote debuggee VM localhost:48713 .
+2022.05.04 18:36:53 INFO  Attaching to debuggee VM succeeded.
+2022.05.04 18:36:53 INFO  Canceling debug proxy for [Main]
+2022.05.04 18:36:53 INFO  Closing debug server tcp://0.0.0.0:44737
+2022.05.05 08:47:48 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/lsp.trace.json or /home/yelun/.cache/metals/lsp.trace.json
+2022.05.05 08:47:49 INFO  logging to file /home/yelun/University/year2/models-tools/models-tools/.metals/metals.log
+2022.05.05 08:47:49 INFO  Started: Metals version 0.11.5 in workspace '/home/yelun/University/year2/models-tools/models-tools' for client Visual Studio Code 1.66.2.
+2022.05.05 08:47:51 INFO  time: initialize in 1.81s
+2022.05.05 08:47:51 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.05 08:47:51 INFO  Attempting to connect to the build server...
+2022.05.05 08:47:51 INFO  skipping build import with status 'Installed'
+2022.05.05 08:47:55 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/bsp.trace.json or /home/yelun/.cache/metals/bsp.trace.json
+2022.05.05 08:47:55 INFO  Attempting to connect to the build server...
+2022.05.05 08:47:55 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/project/.metals/bsp.trace.json or /home/yelun/.cache/metals/bsp.trace.json
+2022.05.05 08:47:55 INFO  time: Connected to build server in 3.75s
+2022.05.05 08:47:55 INFO  Connected to Build server: Bloop v1.5.0
+2022.05.05 08:47:57 INFO  no build target found for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.05 08:47:57 INFO  time: code lens generation in 3.45s
+2022.05.05 08:47:59 INFO  time: indexed workspace in 1.72s
+May 05, 2022 8:48:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.05.05 17:46:04 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/lsp.trace.json or /home/yelun/.cache/metals/lsp.trace.json
+2022.05.05 17:46:04 INFO  logging to file /home/yelun/University/year2/models-tools/models-tools/.metals/metals.log
+2022.05.05 17:46:04 INFO  Started: Metals version 0.11.5 in workspace '/home/yelun/University/year2/models-tools/models-tools' for client Visual Studio Code 1.66.2.
+2022.05.05 17:46:06 INFO  time: initialize in 1.78s
+2022.05.05 17:46:06 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.05 17:46:07 INFO  Attempting to connect to the build server...
+2022.05.05 17:46:06 INFO  skipping build import with status 'Installed'
+May 05, 2022 5:46:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2022.05.05 17:46:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/bsp.trace.json or /home/yelun/.cache/metals/bsp.trace.json
+2022.05.05 17:46:10 INFO  Attempting to connect to the build server...
+2022.05.05 17:46:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/project/.metals/bsp.trace.json or /home/yelun/.cache/metals/bsp.trace.json
+2022.05.05 17:46:10 INFO  time: Connected to build server in 3.49s
+2022.05.05 17:46:10 INFO  Connected to Build server: Bloop v1.5.0
+2022.05.05 17:46:18 INFO  no build target found for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.05 17:46:18 INFO  time: code lens generation in 8.92s
+2022.05.05 17:46:19 INFO  no build target found for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.05 17:46:21 INFO  time: code lens generation in 5.43s
+2022.05.05 17:46:21 INFO  time: code lens generation in 9.67s
+2022.05.05 17:46:23 INFO  time: indexed workspace in 4.58s
+2022.05.05 18:15:22 INFO  compiling models-tools (1 scala source)
+2022.05.05 18:15:26 INFO  time: compiled models-tools in 3.51s
+2022.05.05 18:15:30 INFO  compiling models-tools (1 scala source)
+2022.05.05 18:15:30 WARN  Could not load snapshot text for /home/yelun/University/year2/models-tools/models-tools/src/main/scala/Main.scala
+2022.05.05 18:15:31 INFO  time: compiled models-tools in 1.13s
+2022.05.05 18:16:50 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-server.trace.json or /home/yelun/.cache/metals/dap-server.trace.json
+2022.05.05 18:16:50 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-client.trace.json or /home/yelun/.cache/metals/dap-client.trace.json
+2022.05.05 18:16:51 INFO  Starting debug proxy for [Main]
+2022.05.05 18:16:52 INFO  Trying to attach to remote debuggee VM localhost:59163 .
+2022.05.05 18:16:52 INFO  Attaching to debuggee VM succeeded.
+2022.05.05 18:16:52 INFO  Canceling debug proxy for [Main]
+2022.05.05 18:16:52 INFO  Closing debug server tcp://0.0.0.0:38263
+2022.05.05 18:16:55 INFO  compiling models-tools (1 scala source)
+2022.05.05 18:16:56 INFO  time: compiled models-tools in 1.02s
+2022.05.05 18:16:58 INFO  Deduplicating compilation of models-tools from bsp client 'Metals 0.11.5' (since 30m 47.459s)
+2022.05.05 18:16:58 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-server.trace.json or /home/yelun/.cache/metals/dap-server.trace.json
+2022.05.05 18:16:58 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/yelun/University/year2/models-tools/models-tools/.metals/dap-client.trace.json or /home/yelun/.cache/metals/dap-client.trace.json
+2022.05.05 18:16:58 INFO  Starting debug proxy for [Main]
+2022.05.05 18:16:58 INFO  Trying to attach to remote debuggee VM localhost:54039 .
+2022.05.05 18:16:58 INFO  Attaching to debuggee VM succeeded.
+2022.05.05 18:16:59 INFO  Canceling debug proxy for [Main]
+2022.05.05 18:16:59 INFO  Closing debug server tcp://0.0.0.0:40933

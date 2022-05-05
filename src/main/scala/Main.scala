@@ -11,22 +11,18 @@ object InputTypes extends Enumeration {
 
 object input {
     val inputType = InputTypes.Decode
-    val encodeInput: RMPart = ProgDec(0, 3, 4)
+    val encodeInput: RMPart = RMProg(
+      List(
+        ProgDec(0, 1, 2),
+        ProgHalt()
+      )
+    )
     val decodeInput: scala.math.BigInt = 1144
     val decodeType =
         DecodeTypes.Instruction // SmallPair, LargePair, List, Program or Instruction
 
     val runInputProgram = RMProg(
-      List(
-        ProgDec(0, 1, 4),
-        ProgInc(1, 2),
-        ProgDec(0, 3, 4),
-        ProgInc(2, 0),
-        ProgDec(1, 4, 5),
-        ProgDec(2, 6, 7),
-        ProgInc(0, 5),
-        ProgHalt()
-      )
+      List()
     )
     /* HashMap Initialization Syntax: HashMap(0 -> 0, 1 -> 99)
      * is equivalent to: R0 = 0, R1 = 99
